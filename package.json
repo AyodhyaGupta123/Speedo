@@ -1,0 +1,19 @@
+{
+  "name": "speedo-app",
+  "version": "1.0.0",
+  "description": "\"This app use for travelling purpose look like the Rapido\"",
+  "keywords": [
+    "server.js",
+    "Production"
+  ],
+  "license": "ISC",
+  "author": "\"Ayodhya & Chitra\"",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
